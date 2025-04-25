@@ -64,13 +64,24 @@
 
 
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=f4323-aziz&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
-
 <br />
+
+
+### ✨ A Few More Things...
+
+- 🧩 I believe in the power of interdisciplinary thinking — where code meets creativity, and data tells stories.
+- 🎯 Currently diving deeper into explainable AI and scalable data pipelines.
+- ✈️ If I'm not coding, I'm probably exploring new places or losing myself in a sci-fi novel.
+- 🌟 Motto I live by: *"Stay curious, stay humble, and keep building."*
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F778BA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👩‍💻;Keep+creating+and+stay+awesome!+🚀" />
+</div>
+
+---
