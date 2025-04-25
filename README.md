@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rabia Senlik.
 - 🤖 I’m passionate about AI/ML and Big Data technologies.
-- 🌱 Having 2+ years of experience in AI/ML and big data, including 1+ year of hands-on work in the AI sector, contributing to various real-world projects.
+- 🌱 Having 3+ years of experience in AI/ML and big data, including 2+ year of hands-on work in the AI sector, contributing to various real-world projects.
 - 🧠 Skilled in Python libraries such as TensorFlow, Scikit-Learn, PyTorch, and OpenCV, with strong proficiency in data manipulation using Pandas and NumPy.
 - 🔍 I thrive on analytical thinking, continuous learning, and adapting quickly to new technologies.
 - 🤝 I enjoy working both independently and in collaborative environments, with strengths in problem-solving, multitasking, and time management.
@@ -66,7 +66,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=f4323-Aziz&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=123162&&style=flat-square" align="center" />
 </div>  
   
 
