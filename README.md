@@ -63,14 +63,6 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=f4323-aziz&&style=flat-square" align="center" />
-</div>  
-<br/>  
-<br />
-
-
 ### ✨ A Few More Things...
 
 - 🧩 I believe in the power of interdisciplinary thinking — where code meets creativity, and data tells stories.
@@ -85,3 +77,11 @@
 </div>
 
 ---
+
+
+<br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=f4323-aziz&&style=flat-square" align="center" />
+</div>  
+<br/>  
+<br />
